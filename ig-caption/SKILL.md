@@ -6,7 +6,7 @@ description: Write a copy-ready Instagram caption for @warmnode - a first line t
 # /ig-caption - captions that get read and answered
 
 ## Account context (@warmnode)
-- Bio: "Rent a friend for coffee & deep talks." Voice: warm, calm, honest, a friend across the table. Never preachy, never salesy.
+- Bio: "Rent a friend (free, just talk) ☕ / Deep questions for overthinkers 18–30 / New one daily · answer in the comments" Voice: warm, calm, honest, a friend across the table. Never preachy, never salesy.
 - Audience: 18-30 overthinkers who crave real conversation. English, light Roman Urdu when natural.
 - If the user says their niche changed, follow what they say now.
 

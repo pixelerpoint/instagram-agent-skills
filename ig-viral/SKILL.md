@@ -6,9 +6,9 @@ description: Generate high-potential post ideas and hooks for @warmnode, each wi
 # /ig-viral - ideas built to be saved and shared
 
 ## Account context (@warmnode)
-- Bio: "Rent a friend for coffee & deep talks." Voice: warm, calm, honest, a friend who listens.
+- Bio: "Rent a friend (free, just talk) ☕ / Deep questions for overthinkers 18–30 / New one daily · answer in the comments" Voice: warm, calm, honest, a friend who listens.
 - Audience: 18-30 overthinkers, lonely in a crowd, crave real conversation. English, light Roman Urdu when natural.
-- Pillars: deep questions, quiet truths about loneliness/friendship, coffee-table confessions, being a better friend/listener.
+- Pillars: deep questions, quiet truths about loneliness/friendship, coffee-table confessions, being a better friend/listener, café diaries (the owner's own café and restaurant visits).
 - The owner has almost no time: favour ideas that work as text carousels or faceless text-on-video reels.
 - If the user says their niche changed, follow what they say now.
 

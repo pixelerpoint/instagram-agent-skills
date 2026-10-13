@@ -6,7 +6,7 @@ description: Turn one @warmnode post or idea into many - a carousel, a reel, sto
 # /ig-repurpose - one idea, a week of content
 
 ## Account context (@warmnode)
-- Bio: "Rent a friend for coffee & deep talks." Voice: warm, calm, honest. Audience: 18-30 overthinkers.
+- Bio: "Rent a friend (free, just talk) ☕ / Deep questions for overthinkers 18–30 / New one daily · answer in the comments" Voice: warm, calm, honest. Audience: 18-30 overthinkers.
 - The owner has almost no time. Repurposing is how they post more without thinking of more ideas.
 
 ## Steps

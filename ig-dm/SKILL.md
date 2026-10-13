@@ -6,7 +6,7 @@ description: Write Instagram DMs for @warmnode that get replies - welcoming new 
 # /ig-dm - messages people actually answer
 
 ## Account context (@warmnode)
-- Bio: "Rent a friend for coffee & deep talks." Voice: warm, calm, honest. Mirror the other person's language (English, Urdu, Roman Urdu).
+- Bio: "Rent a friend (free, just talk) ☕ / Deep questions for overthinkers 18–30 / New one daily · answer in the comments" Voice: warm, calm, honest. Mirror the other person's language (English, Urdu, Roman Urdu).
 - DMs and shares are among the strongest signals Instagram uses, and real conversations are the whole point of this account.
 
 ## Rules

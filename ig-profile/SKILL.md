@@ -6,7 +6,7 @@ description: Score the @warmnode Instagram profile out of 100 on a 12-part rubri
 # /ig-profile - turn visitors into followers
 
 ## Account context (@warmnode)
-- Handle: @warmnode. Current bio: "Rent a friend for coffee & deep talks." Name field: "Warmnode".
+- Handle: @warmnode. Current bio: "Rent a friend (free, just talk) ☕ / Deep questions for overthinkers 18–30 / New one daily · answer in the comments" Name field: "Warmnode · Deep Talks". Creator account.
 - Voice: warm, calm, honest. Audience: 18-30 overthinkers who crave real conversation.
 - If the user shares a screenshot or new details, use those; they override this block.
 

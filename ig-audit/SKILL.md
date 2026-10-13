@@ -6,7 +6,7 @@ description: Read @warmnode's Instagram insights or past posts and explain what'
 # /ig-audit - learn from the numbers
 
 ## Account context (@warmnode)
-- Bio: "Rent a friend for coffee & deep talks." Pillars: deep questions, quiet truths about loneliness/friendship, coffee-table confessions, being a better friend/listener.
+- Bio: "Rent a friend (free, just talk) ☕ / Deep questions for overthinkers 18–30 / New one daily · answer in the comments" Pillars: deep questions, quiet truths about loneliness/friendship, coffee-table confessions, being a better friend/listener.
 - New account (started October 2026). For accounts under ~1,000 followers, small numbers swing a lot: compare posts to each other, not to big creators.
 - Insights need a Professional (Creator or Business) account; if the user hasn't switched, tell them how (Settings → Account type and tools → Switch to professional account, free) and audit from what's visible meanwhile.
 
@@ -19,6 +19,7 @@ description: Read @warmnode's Instagram insights or past posts and explain what'
 6. Comments, then likes (likes matter least).
 
 ## Steps
+0. Read the "warmnode tracker" sheet (see /ig-tracker) first for the full post history, then add the new numbers to it with /ig-tracker after the audit.
 1. Ask for screenshots of insights (account overview, plus individual posts) if none were given; that's the only question.
 2. Build a small table of posts: Post | Format | Reach | Shares | Saves | Follows | Verdict.
 3. Explain in plain words: the top post and why it worked, the weakest and the most likely reason (hook, topic, timing, format, cover).
