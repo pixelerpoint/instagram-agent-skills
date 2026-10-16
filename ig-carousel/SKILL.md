@@ -14,13 +14,14 @@ description: Build a finished Instagram carousel for @warmnode - cover that earn
 - If the user says their niche, bio or look changed, follow what they say now.
 
 ## The look: "espresso & chai"
+- **One photo per carousel (owner's choice, 16 Oct 2026).** Every slide of a carousel uses the SAME single aesthetic photo with the same crop; only the text changes. Pick the one photo that best matches the post's mood. Cover slide at dim 0.72, inner slides at dim ~0.55 for readability; the café label only on the cover. Different carousels can use different photos.
 - The owner's own photos are the background of every slide, graded dark and warm. Cream serif text, a short chai-amber line above the text, a small café label at the top when the place is known.
 - Never the old plain cream/beige slides. If no photos are available at all, the script falls back to a plain espresso background; say so in one line and suggest adding photos to Drive.
 - Faceless account: never use a photo where a person's face is recognisable (hands, cups, backs of heads far away are fine).
 
 ## Steps
 1. **Topic.** None given? Pick one from the pillars yourself (rotate; deep questions and quiet truths save and share best). Don't ask.
-2. **Photos.** In priority order: photos the user attached in this chat → the Google Drive folder "warmnode data" (follow the /ig-drive skill to list, download and pick, skipping anything in its "used" subfolder) → plain espresso fallback. Make a numbered contact sheet and look at it before choosing. Match each slide's photo to its mood (chess and chai for questions, empty or foggy scenes for loneliness, a single cup for confessions).
+2. **Photos.** In priority order: photos the user attached in this chat → the Google Drive folder "warmnode data" (follow the /ig-drive skill to list, download and pick, skipping anything in its "used" subfolder) → plain espresso fallback. Make a numbered contact sheet and look at it before choosing. Choose ONE photo for the whole carousel that matches its mood (chess and chai for questions, empty or foggy scenes for loneliness, a single cup for confessions), and use it on every slide.
 3. **Copy.** 6-8 slides:
    - Slide 1 (cover): one line, max 9 words, a curiosity gap or a "this is me" feeling, plus an optional short subtitle.
    - Slides 2 to n-1: one idea each. Title max ~6 words, body max 30 words.
